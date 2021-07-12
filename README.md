@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08)](https://github.com/PranjalVerma08/github-readme-stats)
-![alt](https://kaggle-summary-card.herokuapp.com/api?user=<pranjalverma08>)
+<img src="https://kaggle-summary-card.herokuapp.com/api?user=<pranjalverma08>" />
+
+
 
 
 
