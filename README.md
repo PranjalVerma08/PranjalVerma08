@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08)](https://github.com/PranjalVerma08/github-readme-stats)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Visits Badge](https://badges.pufler.dev/visits/PranjalVerma08/PranjalVerma08)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/PranjalVerma08/PranjalVerma08)](https://github.com/PranjalVerma08)
 
 
