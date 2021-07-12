@@ -16,12 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical)
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical" alt="PranjalVerma08" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08&layout=compact&theme=radical" alt="PranjalVerma08 stats" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08)](https://github.com/PranjalVerma08/github-readme-stats)
 
 
 
