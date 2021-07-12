@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Visits Badge](https://badges.pufler.dev/visits/PranjalVerma08/PranjalVerma08)](https://github.com/PranjalVerma08)
 <!--
 **PranjalVerma08/PranjalVerma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08)](https://github.com/PranjalVerma08/github-readme-stats)
-[![Visits Badge](https://badges.pufler.dev/visits/PranjalVerma08/PranjalVerma08)](https://github.com/PranjalVerma08)
+![alt](https://kaggle-summary-card.herokuapp.com/api?user=<pranjalverma08>)
+
 
 
