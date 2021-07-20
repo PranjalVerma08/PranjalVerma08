@@ -4,7 +4,7 @@
 **PranjalVerma08/PranjalVerma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🌱 I'm a pre-final year Undergraduate student at the Indian Institute of Technology (IIT), Guwahati.
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&theme=radical" alt="PranjalVerma08" /></p>
