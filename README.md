@@ -80,7 +80,6 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 
 <br/>
 
-### 🎥 See it in action
 
 <!--
   TODO: this is the highest-impact addition you can make. A 10-15 second screen
@@ -94,7 +93,6 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
   Keep it under ~5MB so it loads smoothly.
 -->
 
-*A short demo of one of the projects above — coming soon.*
 
 <br/>
 
