@@ -67,7 +67,7 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 
 | Project | Domain | What it does |
 |---|---|---|
-| **Biomedical Foundation LLM** | LLMs | A 8B-parameter life-sciences language model — 64K context, trained across 100+ H100 GPUs, refined through multi-stage SFT. |
+| **Biomedical Foundation LLM** | LLMs | A 5B-parameter life-sciences language model — 64K context, trained across 100+ H100 GPUs, refined through multi-stage SFT. |
 | **Multi-Agent Research Assistant** | Agents | A crew of AI agents that read biomedical literature, cluster findings, and surface insights — built on CrewAI. |
 | **RAG-Based Research Chatbot** | Agents · LLMs | Citation-backed Q&A over scientific documents with hybrid search and multilingual voice support — cut research time by 80%. |
 | **Cloud-Physician — ECG Vitals Extraction** | Computer Vision | An ensemble of detection and OCR models that reads vitals straight off ICU monitor screens — 95% training / 80% validation accuracy. |
@@ -77,6 +77,24 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 | **Loki Validation Framework** | Pathology | Validates and benchmarks image-to-gene prediction pipelines for spatial transcriptomics. |
 
 <sub>Repos for the items above marked private or in progress — happy to share details if you ask.</sub>
+
+<br/>
+
+### 🎥 See it in action
+
+<!--
+  TODO: this is the highest-impact addition you can make. A 10-15 second screen
+  recording of any project above (the RAG chatbot answering a question, the
+  multi-agent crew running, the ECG pipeline reading a monitor) beats any badge
+  on this page. Record with ScreenToGif (Windows), Kap (Mac), or vhs (terminal
+  demos), drop the file at e.g. assets/demo.gif, then uncomment and edit:
+
+  <p align="center"><img src="assets/demo.gif" width="80%" alt="demo" /></p>
+
+  Keep it under ~5MB so it loads smoothly.
+-->
+
+*A short demo of one of the projects above — coming soon.*
 
 <br/>
 
@@ -135,25 +153,63 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 <img src="https://github-readme-stats.vercel.app/api?username=PranjalVerma08&show_icons=true&hide_border=false&bg_color=FBF7F5&title_color=6B2D5C&icon_color=1F6F70&text_color=2D1B2E&border_color=1F6F70" height="165" alt="github stats" />
 <img src="https://streak-stats.demolab.com/?user=PranjalVerma08&background=FBF7F5&border=1F6F70&ring=6B2D5C&fire=B5466B&currStreakLabel=6B2D5C&sideLabels=2D1B2E&currStreakNum=2D1B2E&sideNums=2D1B2E&dates=6B2D5C" height="165" alt="github streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranjalVerma08&bg_color=FBF7F5&color=2D1B2E&line=6B2D5C&point=1F6F70&area=true&area_color=B5466B&title_color=6B2D5C&hide_border=false&border_color=1F6F70" width="95%" alt="commit activity graph" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08&layout=compact&hide_border=false&bg_color=FBF7F5&title_color=6B2D5C&text_color=2D1B2E&border_color=1F6F70" height="165" alt="top languages" />
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=PranjalVerma08&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=PranjalVerma08&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
 
 </div>
 
+<br/>
+
+### 🐍 Contribution animations
+
+Two different ways of looking at the same contribution graph:
+
 <!--
-  TODO: the line below needs a one-time GitHub Action to work (the contribution-graph
-  "snake" animation). Steps are in the chat reply, along with the snake.yml file.
-  Until it's set up, delete this block or it'll show as a broken image.
+  TODO: both images below need a one-time GitHub Action to work. Steps for the
+  snake are earlier in this conversation; steps for the 3D calendar are in the
+  chat reply that came with this file, along with profile-3d.yml.
+  Until they're set up, delete the block(s) below or they'll show as broken images.
 -->
 <div align="center">
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation across the contribution graph" src="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
 </div>
+
+<br/>
+
+### 🦑 Full metrics dashboard
+
+<!--
+  TODO: needs a GitHub Action + a personal access token saved as the METRICS_TOKEN
+  secret (more setup than anything else on this page — steps in the chat reply,
+  along with metrics.yml). Includes an animated isometric calendar plus several
+  other live panels in one combined SVG. Delete this block until it's set up.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/main/github-metrics.svg" alt="animated metrics dashboard" width="100%" />
+</div>
+
+<br/>
+
+### ⚡ Recent activity
+
+<!--
+  TODO: needs a small GitHub Action (activity-readme.yml, steps in the chat reply).
+  Once it's running, it fills in the space between the markers below automatically —
+  don't edit between them by hand, the next run will overwrite it.
+-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
