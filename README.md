@@ -67,7 +67,7 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 
 | Project | Domain | What it does |
 |---|---|---|
-| **Biomedical Foundation LLM** | LLMs | A 5B-parameter life-sciences language model — 64K context, trained across 100+ H100 GPUs, refined through multi-stage SFT. |
+| **Biomedical Foundation LLM** | LLMs | A 8B-parameter life-sciences language model — 64K context, trained across 100+ H100 GPUs, refined through multi-stage SFT. |
 | **Multi-Agent Research Assistant** | Agents | A crew of AI agents that read biomedical literature, cluster findings, and surface insights — built on CrewAI. |
 | **RAG-Based Research Chatbot** | Agents · LLMs | Citation-backed Q&A over scientific documents with hybrid search and multilingual voice support — cut research time by 80%. |
 | **Cloud-Physician — ECG Vitals Extraction** | Computer Vision | An ensemble of detection and OCR models that reads vitals straight off ICU monitor screens — 95% training / 80% validation accuracy. |
@@ -137,7 +137,7 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08&layout=compact&hide_border=false&bg_color=FBF7F5&title_color=6B2D5C&text_color=2D1B2E&border_color=1F6F70" height="165" alt="top languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=PranjalVerma08&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=PranjalVerma08&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" /> -->
 
 </div>
 
