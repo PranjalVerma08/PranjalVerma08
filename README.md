@@ -157,15 +157,11 @@ None of these is "the" thing I do — they're just where curiosity and a good ch
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalVerma08&layout=compact&hide_border=false&bg_color=FBF7F5&title_color=6B2D5C&text_color=2D1B2E&border_color=1F6F70" height="165" alt="top languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=PranjalVerma08&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="trophies" />
-
 </div>
 
 <br/>
 
 ### 🐍 Contribution animations
-
-Two different ways of looking at the same contribution graph:
 
 <!--
   TODO: both images below need a one-time GitHub Action to work. Steps for the
@@ -182,26 +178,12 @@ Two different ways of looking at the same contribution graph:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="90%" />
 </div>
 
 <br/>
 
-### 🦑 Full metrics dashboard
 
-<!--
-  TODO: needs a GitHub Action + a personal access token saved as the METRICS_TOKEN
-  secret (more setup than anything else on this page — steps in the chat reply,
-  along with metrics.yml). Includes an animated isometric calendar plus several
-  other live panels in one combined SVG. Delete this block until it's set up.
--->
-<div align="center">
-<img src="https://raw.githubusercontent.com/PranjalVerma08/PranjalVerma08/main/github-metrics.svg" alt="animated metrics dashboard" width="100%" />
-</div>
 
-<br/>
-
-### ⚡ Recent activity
 
 <!--
   TODO: needs a small GitHub Action (activity-readme.yml, steps in the chat reply).
